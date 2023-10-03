@@ -1,0 +1,6 @@
+.Ball {
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    margin: 5px;
+  }
